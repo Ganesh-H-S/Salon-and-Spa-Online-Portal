@@ -1,1 +1,2 @@
-# Salon-and-Spa-Online-Portal
+# Curlz-Salon-And-Spa
+Web technology Lab Mini Project
